@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ka-rocha&count_private=true&theme=vue&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-rocha&langs_count=5&theme=vue)]()
+
 <!--
 **ka-rocha/ka-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
