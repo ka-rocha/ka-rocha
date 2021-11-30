@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Active Learning with MESA modeling He star + BH binaries.
+https://user-images.githubusercontent.com/48293898/144135602-e0c12cae-c13f-444f-985a-9a8975030cc1.mov
